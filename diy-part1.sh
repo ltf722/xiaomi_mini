@@ -18,4 +18,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git chinadns-ng https://github.com/pexcn/openwrt-chinadns-ng' >>feeds.conf.default
 #echo 'src-git smartdns https://github.com/pymumu/smartdns' >>feeds.conf.default
-git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
+#git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
