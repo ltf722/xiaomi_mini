@@ -17,3 +17,4 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git chinadns-ng https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng' >>feeds.conf.default
+echo 'src-git smartdns https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns' >>feeds.conf.default
